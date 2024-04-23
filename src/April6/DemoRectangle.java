@@ -1,7 +1,5 @@
 package April6;
 
-import April2.Rectangle;
-
 public class DemoRectangle {
     double area,perimeter;
     double width;

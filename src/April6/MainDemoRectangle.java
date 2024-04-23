@@ -1,7 +1,5 @@
 package April6;
 
-import April2.Rectangle;
-
 public class MainDemoRectangle {
     public static void main(String[] args) {
         DemoRectangle demoRectangle = new DemoRectangle(2,4.3);

@@ -1,4 +1,4 @@
-package April2;
+package april2;
 
 public class Rectangle {
    /*
