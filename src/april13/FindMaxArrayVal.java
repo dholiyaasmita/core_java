@@ -1,4 +1,4 @@
-package April13;
+package april13;
 
 public class FindMaxArrayVal {
     //find max and min value
