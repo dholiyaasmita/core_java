@@ -1,4 +1,4 @@
-package April6;
+package april6;
 
 public class DemoRectangle {
     double area,perimeter;

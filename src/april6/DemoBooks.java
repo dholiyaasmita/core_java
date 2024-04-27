@@ -1,4 +1,4 @@
-package April6;
+package april6;
 
 public class DemoBooks {
     /*

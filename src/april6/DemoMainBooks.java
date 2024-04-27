@@ -1,4 +1,4 @@
-package April6;
+package april6;
 
 public class DemoMainBooks {
     public static void main(String[] args) {
